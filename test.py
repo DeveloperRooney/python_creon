@@ -34,6 +34,6 @@ def post_message(token, channel, text):
     )
     print(response)
 
-myToken = "xoxb-1998689688754-1983918473255-VYxNNMgYtMuodhB97JYtUIaM"
+myToken = "xoxb-1998689688754-1983918473255-OfuNsBlgcAGzW4yeFckTgtOi"
 
 post_message(myToken, "#stock", "삼성전자 현재가 : " + str(offer))
